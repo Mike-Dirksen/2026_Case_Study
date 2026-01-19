@@ -1,5 +1,5 @@
 # 2026_Case_Study
-This project examines a waste-based taxation policy where individuals are taxed according to the amount of waste they produce. It aims to analyze how precise measurement could shift consumption behavior, reduce overproduction, and create new incentives, while also considering equity concerns and unintended behavioral responses.
+This repository contains a general modeling framework for analyzing household-level tax incidence and welfare effects under a per-unit taxation scheme. The framework is policy-agnostic and intended to demonstrate analytical structure rather than produce any case-specific conclusions.
 ___
 ## Project Assumptions - 
 
