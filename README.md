@@ -20,4 +20,4 @@ ___
 ## Sources - 
 
 ChatGPT Log - ([Here](https://chatgpt.com/share/696e5667-3d9c-8011-aa5d-d9cdc174a0a7))\
-Github Repository - ([Here](https://github.com/Mike-Dirksen/2026_Case_Study)) [PAT:
+Github Repository - ([Here](https://github.com/Mike-Dirksen/2026_Case_Study)) [PAT: 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]
