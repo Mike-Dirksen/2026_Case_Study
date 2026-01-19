@@ -14,9 +14,10 @@ ___
 ## Important Notes - 
 
 - There will be a private github repository linked in this submission. It includes all raw datasets, the code used to clean it, and any other extraneous materials that may be cited in the final submission. As my name is on the Github account, I'll ensure that it only acts as an optional confirmation for specific methodoligies mentioned in the submission.
-- No identifying parts of this case will be shared on the Github, however as a precaution It will be private. Please request access with a message along the lines of to "Application Review", if further review is neccessary!
+
+- No identifying parts of this case will be shared on the Github, however as a precaution It will be private. Please find the PAT below!
 ___
 ## Sources - 
 
 ChatGPT Log - ([Here](https://chatgpt.com/share/696e5667-3d9c-8011-aa5d-d9cdc174a0a7))\
-Github Repository - ([Here](https://github.com/Mike-Dirksen/2026_Case_Study))
+Github Repository - ([Here](https://github.com/Mike-Dirksen/2026_Case_Study)) [PAT:
