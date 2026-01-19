@@ -6,7 +6,7 @@ ___
 - **Geographic scope:** The analysis is contextualized to the United States for ease of interpretation and access to publicly available, high-level data sources.
 
 - **Literal policy interpretation:** For analytical clarity, the framework adopts a literal interpretation of a per-unit waste tax in which individual waste generation is accurately measured and taxed accordingly.  
-  <sub> - This intentionally excludes behavioral workarounds, demographic-specific rebates, and administrative inefficiencies from the primary analysis, while allowing for their discussion as extensions.</sub>
+  <sub> *This intentionally excludes behavioral workarounds, demographic-specific rebates, and administrative inefficiencies from the primary analysis, while allowing for their discussion as extensions.</sub>
 
 - **Uniform implementation:** The policy is assumed to be implemented uniformly across space, with no cross-border, state-level, or jurisdictional differences (“spatial homogeneity”).
 
