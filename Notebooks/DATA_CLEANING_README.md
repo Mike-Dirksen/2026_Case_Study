@@ -81,10 +81,6 @@ Key steps performed include:
 - Selecting only the rows corresponding to aggregate totals
 - Renaming columns to clear, consistent identifiers
 
-For example:
-- `Year` → `year`
-- `Total MSW Generated` → `total_msw_generated`
-
 This standardization is necessary for downstream merging and regression.
 
 ---
@@ -118,32 +114,7 @@ This ensures compatibility with later regression and extrapolation steps.
 
 ---
 
-## 8. Construction of Modeling Variables
-
-To support regression analysis, the notebook constructs:
-
-- a numeric time index (`t`) for trend estimation,
-- the dependent variable vector (`y`) for modeling,
-- log-transformed versions of waste data for exponential fits.
-
-These transformations are done *after* cleaning, and used solely for the purposes of plotting to avoid contaminating the raw data.
-
----
-
-## 9. Regression Preparation (Preview)
-
-Although full modeling may occur in a separate notebook, this file prepares
-the data for:
-
-- linear trend estimation,
-- exponential growth estimation via log-linear regression.
-
-At this stage, no interpretation is imposed; the goal is only to ensure the
-inputs are well-formed.
-
----
-
-## 10. Design Philosophy
+## 8. Design Philosophy
 
 A few guiding principles behind this notebook:
 
